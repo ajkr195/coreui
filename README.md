@@ -24,7 +24,7 @@ npm install -g @angular/cli
 ### Instalation
 
 ``` bash
-$ npm install
+$ npm install --force
 ```
 
 ### Basic usage
