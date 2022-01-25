@@ -3,7 +3,7 @@
 
 ## Quick Start
 
-- [Download the latest release](https://github.com/ajkr195/coreui)
+- [Download](https://github.com/ajkr195/coreui)
 - Clone the repo: `git clone https://github.com/ajkr195/coreui.git`
 
 #### <i>Prerequisites</i>
